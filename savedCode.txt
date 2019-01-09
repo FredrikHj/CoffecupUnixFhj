@@ -1,0 +1,8 @@
+// Varannan blå/röd
+let minNr;
+let maxNr = 100;
+
+for (minNr = 0; minNr <= maxNr; minNr++) {
+  if (minNr % 2 === 0) console.log(cli.blue(minNr));
+  if (minNr % 2 === 1) console.log(cli.red(minNr));
+}

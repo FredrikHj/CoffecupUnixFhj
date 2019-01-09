@@ -1,0 +1,28 @@
+{
+  "name": "coffecupunixfh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredrikHj/CoffecupUnixFhj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredrikHj/CoffecupUnixFhj/issues"
+  },
+  "homepage": "https://github.com/FredrikHj/CoffecupUnixFhj#readme",
+  "dependencies": {
+    "cli-color": "^1.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  },
+  "bin": {
+    "min-fina-modul": "./index.js"
+  }
+}
